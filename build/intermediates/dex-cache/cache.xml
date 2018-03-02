@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\PublicDemo\app\libs\fastjson-1.1.52.android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6fcd2df42d3576368514855c72baabe3b6e318e0">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson-1.1.52.android_e0db252771430d824d05127da62cabd4b76e4ea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\PublicDemo\app\libs\BASE64Encoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e240ccd923068f44141c9091e38b8f442c0dce5a">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\BASE64Encoder_6687c00515e443551fcf2096e43a29afc175094d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\PublicDemo\app\libs\NlsClientSdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed25fc625e65e7466edd0d6025ddafb3b3bcbde0">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\NlsClientSdk_6be7f4470e2b517742abc2f218850996cc7ddde6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="37b43457042a317bf43ea128ba25944130be86a7">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_552460fdd8ef84c8e79f478acc42edd56810e744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Administrator\Desktop\PublicDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4a548259bccd11b61deca2aee590feef513b4faa\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+#Fri Mar 02 20:28:56 CST 2018
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes.dex
+base.4=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BASE64Encoder_6687c00515e443551fcf2096e43a29afc175094d
+renamed.0=classes5.dex
+base.3=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\fastjson-1.1.52.android_e0db252771430d824d05127da62cabd4b76e4ea6
+base.2=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f
+base.1=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5
+base.0=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\NlsClientSdk_6be7f4470e2b517742abc2f218850996cc7ddde6
+file.4=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BASE64Encoder_6687c00515e443551fcf2096e43a29afc175094d\\classes.dex
+file.3=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\fastjson-1.1.52.android_e0db252771430d824d05127da62cabd4b76e4ea6\\classes.dex
+file.2=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.8.0_06f7f952010e37a20e0067d81e65675288b9e24f\\classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.3.1_2ea39afb3973a142a4b831a99bc4e2df1de6a0a5\\classes.dex
+file.0=C\:\\Users\\Administrator\\Desktop\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\NlsClientSdk_6be7f4470e2b517742abc2f218850996cc7ddde6\\classes.dex
